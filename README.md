@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shy-Nitin/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Shy-Nitin/LeetCode/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/Shy-Nitin/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shy-Nitin/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0229-majority-element-ii](https://github.com/Shy-Nitin/LeetCode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shy-Nitin/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shy-Nitin/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
