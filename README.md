@@ -17,9 +17,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Shy-Nitin/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shy-Nitin/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Shy-Nitin/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shy-Nitin/LeetCode/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Shy-Nitin/LeetCode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Shy-Nitin/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
