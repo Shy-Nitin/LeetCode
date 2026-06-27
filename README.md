@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shy-Nitin/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Shy-Nitin/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Shy-Nitin/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shy-Nitin/LeetCode/tree/master/0242-valid-anagram) |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shy-Nitin/LeetCode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shy-Nitin/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Shy-Nitin/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shy-Nitin/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shy-Nitin/LeetCode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shy-Nitin/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Shy-Nitin/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
