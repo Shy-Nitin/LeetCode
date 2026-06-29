@@ -107,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Shy-Nitin/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Shy-Nitin/LeetCode/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Shy-Nitin/LeetCode/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Shy-Nitin/LeetCode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
