@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shy-Nitin/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Shy-Nitin/LeetCode/tree/master/0027-remove-element) |
 | [0229-majority-element-ii](https://github.com/Shy-Nitin/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shy-Nitin/LeetCode/tree/master/0268-missing-number) |
 ## Counting
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shy-Nitin/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/Shy-Nitin/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Shy-Nitin/LeetCode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Shy-Nitin/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shy-Nitin/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
