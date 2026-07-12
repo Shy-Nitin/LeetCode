@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shy-Nitin/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shy-Nitin/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Shy-Nitin/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1331-rank-transform-of-an-array](https://github.com/Shy-Nitin/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shy-Nitin/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shy-Nitin/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Shy-Nitin/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1331-rank-transform-of-an-array](https://github.com/Shy-Nitin/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shy-Nitin/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shy-Nitin/LeetCode/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/Shy-Nitin/LeetCode/tree/master/0463-island-perimeter) |
+| [1331-rank-transform-of-an-array](https://github.com/Shy-Nitin/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
