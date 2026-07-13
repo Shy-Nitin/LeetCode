@@ -184,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shy-Nitin/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Shy-Nitin/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
