@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shy-Nitin/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Shy-Nitin/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Shy-Nitin/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Shy-Nitin/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Shy-Nitin/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shy-Nitin/LeetCode/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shy-Nitin/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Shy-Nitin/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Shy-Nitin/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Shy-Nitin/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Shy-Nitin/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Shy-Nitin/LeetCode/tree/master/0148-sort-list) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shy-Nitin/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shy-Nitin/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shy-Nitin/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shy-Nitin/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Shy-Nitin/LeetCode/tree/master/0155-min-stack) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shy-Nitin/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Shy-Nitin/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Matrix
 |  |
 | ------- |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shy-Nitin/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Shy-Nitin/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shy-Nitin/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
