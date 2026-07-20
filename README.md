@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shy-Nitin/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Shy-Nitin/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Shy-Nitin/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Shy-Nitin/LeetCode/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/Shy-Nitin/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shy-Nitin/LeetCode/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/Shy-Nitin/LeetCode/tree/master/0463-island-perimeter) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shy-Nitin/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Shy-Nitin/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Shy-Nitin/LeetCode/tree/master/0118-pascals-triangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shy-Nitin/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Matrix
 |  |
