@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shy-Nitin/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Shy-Nitin/LeetCode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shy-Nitin/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Shy-Nitin/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shy-Nitin/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Shy-Nitin/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Shy-Nitin/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Shy-Nitin/LeetCode/tree/master/0042-trapping-rain-water) |
