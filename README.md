@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Shy-Nitin/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Shy-Nitin/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shy-Nitin/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Shy-Nitin/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Shy-Nitin/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Shy-Nitin/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shy-Nitin/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shy-Nitin/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shy-Nitin/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Shy-Nitin/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shy-Nitin/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Shy-Nitin/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Shy-Nitin/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shy-Nitin/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shy-Nitin/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shy-Nitin/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Shy-Nitin/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shy-Nitin/LeetCode/tree/master/0268-missing-number) |
+| [1386-cinema-seat-allocation](https://github.com/Shy-Nitin/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shy-Nitin/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
